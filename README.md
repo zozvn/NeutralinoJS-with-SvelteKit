@@ -73,7 +73,36 @@ Bạn cần build frontend trước khi chạy Neutralino..
 ```
 
 # Run Application
-neu run
+```
+  neu run
+```
 
 # Build Application
+```
 neu build
+```
+---
+
+### 📄 Project Overview: NeutralinoJS + SvelteKit Application
+
+> **Title**: Cross-platform Lightweight Application powered by NeutralinoJS & SvelteKit
+
+This project is a lightweight, portable desktop application built using **NeutralinoJS** for the backend runtime and **SvelteKit** for the modern frontend framework. It is designed as a **personal portfolio** or a **project showcase application**, enabling developers or businesses to present their work in a clean, performant, and cross-platform way.
+
+### 💡 Key Highlights:
+
+* ⚙️ **NeutralinoJS** provides a native-like desktop experience without heavy dependencies like Electron.
+* ⚡ **SvelteKit** delivers lightning-fast UI performance with static site generation.
+* 📁 All content can be bundled into a single `.neu` binary, making deployment and distribution simple.
+* 🧩 The application structure supports easy extension (e.g. custom helpers or system integrations).
+* 🖥️ Runs smoothly on **Windows, macOS, and Linux**.
+
+### 🔧 Developer Notes
+
+To get started, make sure you have:
+
+* Node.js (recommended version: LTS)
+* NeutralinoJS CLI (`neu`)
+* \[Optional] **Bun** — for faster dev/build workflow with SvelteKit (can be replaced with npm/npx)
+
+This architecture ensures maximum flexibility while maintaining minimal system footprint — an ideal choice for showcasing creative or technical work to clients or stakeholders.
