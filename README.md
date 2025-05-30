@@ -1,5 +1,7 @@
 # **Project Introduction – NeutralinoJS + SvelteKit Starter**
 
+![Neutralino + SvelteKit Preview](https://raw.githubusercontent.com/zozvn/NeutralinoJS-with-SvelteKit/main/neutralino-with-sveltekit.jpg)
+
 Before getting started, make sure you have **Node.js** and **NeutralinoJS** installed on your system.
 
 This project combines the simplicity of **NeutralinoJS** for lightweight desktop applications with the power of **SvelteKit** for building dynamic frontend interfaces.
