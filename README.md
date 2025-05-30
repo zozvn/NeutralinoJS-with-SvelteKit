@@ -1,4 +1,4 @@
-# Start
+# Install
 Bạn cần build frontend trước khi chạy Neutralino..
 ```
     cd frontend
@@ -8,8 +8,8 @@ Bạn cần build frontend trước khi chạy Neutralino..
     neu update
 ```
 
-# Run
+# Run Application
 neu run
 
-# Builder
+# Build Application
 neu build
