@@ -1,4 +1,4 @@
-### **Project Introduction – NeutralinoJS + SvelteKit Hybrid**
+# **Project Introduction – NeutralinoJS + SvelteKit Starter**
 
 Before getting started, make sure you have **Node.js** and **NeutralinoJS** installed on your system.
 
@@ -10,7 +10,7 @@ While you can use standard `npm` or `npx` to build and run the SvelteKit fronten
 
 ---
 
-### 🧰 How to Clone This Project Using Git
+## 🧰 How to Clone This Project Using Git
 
 > 💡 **Note**: Make sure you have **Git CLI** installed on your system.
 > If you don’t have Git installed yet, follow the instructions below:
@@ -62,7 +62,7 @@ This will create a new folder called `my-app` (or any name you choose) containin
 
 ---
 
-# Install
+#### Install
 Bạn cần build frontend trước khi chạy Neutralino..
 ```
     cd frontend
@@ -72,12 +72,12 @@ Bạn cần build frontend trước khi chạy Neutralino..
     neu update
 ```
 
-# Run Application
+#### Run Application
 ```
   neu run
 ```
 
-# Build Application
+#### Build Application
 ```
 neu build
 ```
