@@ -12,7 +12,31 @@ While you can use standard `npm` or `npx` to build and run the SvelteKit fronten
 
 ### 🧰 How to Clone This Project Using Git
 
-> 💡 **Note**: Make sure you have **Git CLI** installed on your system. If not, download it from [https://git-scm.com/downloads](https://git-scm.com/downloads).
+> 💡 **Note**: Make sure you have **Git CLI** installed on your system.
+> If you don’t have Git installed yet, follow the instructions below:
+
+#### 🔧 Install Git via terminal
+
+* **macOS** (via Homebrew):
+
+  ```bash
+  brew install git
+  ```
+
+* **Ubuntu/Linux** (Debian-based):
+
+  ```bash
+  sudo apt update
+  sudo apt install git
+  ```
+
+* **Windows**:
+  Download the official installer from:
+  👉 [https://git-scm.com/download/win](https://git-scm.com/download/win)
+  Then follow the setup wizard.
+  After installation, you can use **Git Bash** or **PowerShell**.
+
+---
 
 #### ✅ Clone into the current directory:
 
@@ -34,7 +58,7 @@ Example:
 git clone https://github.com/zozvn/NeutralinoJS-with-SvelteKit.git my-app
 ```
 
-This will create a new folder called `my-app` (or whatever name you choose) containing the full project source.
+This will create a new folder called `my-app` (or any name you choose) containing the project.
 
 ---
 
