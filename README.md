@@ -5,10 +5,8 @@ Bạn cần build frontend trước khi chạy Neutralino..
     bun install
     bun run build
     cd ../
+    neu update
 ```
-
-# Install
-neu update
 
 # Run
 neu run
