@@ -85,10 +85,6 @@ neu build
 ```
 ---
 
-### 📄 Project Overview: NeutralinoJS + SvelteKit Application
-
-> **Title**: Cross-platform Lightweight Application powered by NeutralinoJS & SvelteKit
-
 This project is a lightweight, portable desktop application built using **NeutralinoJS** for the backend runtime and **SvelteKit** for the modern frontend framework. It is designed as a **personal portfolio** or a **project showcase application**, enabling developers or businesses to present their work in a clean, performant, and cross-platform way.
 
 ### 💡 Key Highlights:
